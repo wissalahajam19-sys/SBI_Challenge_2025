@@ -1,0 +1,17 @@
+# requirements.txt
+# Bibliothèques pour la manipulation de données et le calcul scientifique
+pandas
+numpy
+
+# Bibliothèque pour le Machine Learning
+scikit-learn
+
+# Bibliothèque pour sauvegarder/charger les modèles
+joblib
+
+# Bibliothèque pour créer l'interface web
+streamlit
+
+# Bibliothèques pour communiquer avec l'API Hugging Face
+huggingface_hub
+requests
