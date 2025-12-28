@@ -4,7 +4,7 @@ pandas
 numpy
 
 # Bibliothèque pour le Machine Learning
-scikit-learn
+scikit-learn==1.6.1
 
 # Bibliothèque pour sauvegarder/charger les modèles
 joblib
